@@ -821,5 +821,10 @@ credits = [
     '2008-2017 by Yii Software LLC',
     'BSD',
     'https://raw.githubusercontent.com/yiisoft/yii/master/LICENSE'
+  ], [
+    'Thymeleaf',
+    'The Thymeleaf Team',
+    'Apache License 2.0',
+    'https://raw.githubusercontent.com/thymeleaf/thymeleaf/3.0-master/LICENSE.txt'
   ]
 ]
